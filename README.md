@@ -1,4 +1,5 @@
-Travel Plan Recommender App
+### Dhabetny
+#the Travel Plan Recommender App
 This is a web application built with Flask that recommends travel plans for users based on their preferences. The application uses OpenAI's GPT-3 language model to generate travel plans based on the input provided by the user.
 
 Getting Started
